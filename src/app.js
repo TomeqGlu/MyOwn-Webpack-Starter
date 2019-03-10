@@ -1,3 +1,5 @@
+import "./styles/styles.scss";
+
 console.log('Welcome Webpack!');
 const arrowFunction = (test) => test;
 console.log(arrowFunction("Babel tested succesful!"));
